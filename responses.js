@@ -66,7 +66,7 @@ function getBotResponse(que)
              return "IES is in the field of education for the past 25 years, so no doubt IES is Best ";
     }
              
-             else if(input=="who is  chancellor of ies "||input=="chancellor ofinput=="who is chancellor")
+             else if(input=="who is  chancellor of ies "||input=="chancellor of ies"||input=="who is chancellor")
     {
         return "Er. B.S Yadav is chancellor at IES";
     }
